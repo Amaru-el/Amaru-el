@@ -5,8 +5,9 @@
 - 📫 How to reach me ashleahel@yandex.com
 
 <!---
-Amaru-el/Amaru-el is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. Amaru-el is Allodial Sarat El Amaru Nation, a republic formed
-International American Indian Tribal Nation, Allodial
+Amaru-el/Amaru-el is a ✨ special ✨ repository
+Allodial Sarat El Amaru Nation, North America
+International
 National-AA22141 
 
 You can click the Preview link to take a look at your changes.
